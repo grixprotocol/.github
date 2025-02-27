@@ -1,0 +1,60 @@
+{
+    "oneLiner": "The Universal Language for DeFi Derivatives Interactions",
+    "intro": "Empower your AI agents with battle-tested toolkits for risk management, position optimization, and strategy execution across leading agentic platforms like ElizaOS",
+    "branding": {
+        "name": "GRIX",
+        "fullName": "Grix Finance",
+        "themeColor": "#000000",
+        "colors": {
+            "primary": {
+                "gradient": "linear(to-r, blue.400, teal.400)",
+                "hover": "linear(to-r, blue.500, teal.500)"
+            },
+            "accent": {
+                "teal": "rgba(46, 211, 183, 0.2)",
+                "blue": "rgba(0, 122, 255, 0.1)"
+            }
+        },
+        "assets": {
+            "logo": {
+                "svg": "/GrixLogoV2.svg",
+                "favicon": "/favicon.ico",
+                "apple": "/apple-icon.png"
+            },
+            "ogImage": "https://cdn.prod.website-files.com/64ee0b5cf326da0c678c499a/656f51799ecc50891f0d5de8_1200x600.png"
+        }
+    },
+    "features": {
+        "core": [
+            "Universal DeFi Derivatives Toolkit",
+            "Standardized Protocol Integration Tools",
+            "Enterprise-Grade Risk Management Tools",
+            "Cross-Protocol Position Tools",
+            "Automated Strategy Implementation Tools",
+            "Real-Time Market Analysis Framework"
+        ]
+    },
+    "links": {
+        "trade": {
+            "solana": "https://jup.ag/tokens/E8iWdPoeVDHJn1EHifeCAFWvKZyTN9WXrmccFEx1Hxa",
+            "camelot": "https://app.camelot.exchange/?token2=0x812F2D5Ff6088ed7A655567dBcDf0d42cf07ca38&swap=v2"
+        }
+    },
+    "seo": {
+        "title": "GRIX | The Universal Language for DeFi Derivatives",
+        "description": "Universal Language for DeFi Derivatives Interactions. Empowering AI agents with battle-tested toolkits for risk management, position optimization, and strategy execution.",
+        "keywords": "DeFi derivatives toolkit, AI trading agents, risk management tools, position optimization, strategy execution, ElizaOS integration, enterprise DeFi, protocol integration, GRIX token, decentralized finance, derivatives interactions",
+        "baseUrl": "https://www.grix.finance",
+        "social": {
+            "twitter": "@GrixFinance",
+            "x": "@GrixFinance"
+        }
+    },
+    "analytics": {
+        "googleAnalytics": "G-400528782"
+    },
+    "meta": {
+        "lastUpdated": "2024-02-27T12:15:00Z",
+        "version": "1.0.3"
+    }
+}
