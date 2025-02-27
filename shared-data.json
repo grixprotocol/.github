@@ -4,7 +4,6 @@
     "branding": {
         "name": "GRIX",
         "fullName": "Grix Finance",
-        "themeColor": "#000000",
         "colors": {
             "primary": {
                 "gradient": "linear(to-r, blue.400, teal.400)",
@@ -16,11 +15,7 @@
             }
         },
         "assets": {
-            "logo": {
-                "svg": "/GrixLogoV2.svg",
-                "favicon": "/favicon.ico",
-                "apple": "/apple-icon.png"
-            },
+            "logo": {},
             "ogImage": "https://cdn.prod.website-files.com/64ee0b5cf326da0c678c499a/656f51799ecc50891f0d5de8_1200x600.png"
         }
     },
