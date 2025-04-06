@@ -20,7 +20,7 @@ Grix provides battle-tested toolkits that empower users and AI agents with compr
 ### For AI Developers
 
 - [**Grix Plugin for Eliza**](https://github.com/grixprotocol/plugin-grix) - Seamless integration with Eliza
-- [**Grix Plugin for MCP**](https://github.com/grixprotocol/grix-mcp) - Multi-chain Protocol integration
+- [**Grix Plugin for MCP**](https://github.com/grixprotocol/grix_mcp) - Multi-chain Protocol integration
 
 ### Features
 
