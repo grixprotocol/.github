@@ -153,7 +153,7 @@ Grix provides battle-tested toolkits that empower users and AI agents with compr
   </tr>
   <tr>
     <td align="center">
-      <img src="https://ethereum.org/favicon-32x32.png" width="16" height="16" alt="ETH"> Ethereum
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" width="90" alt="Ethereum">
     </td>
     <td align="center">
       <code><a href="https://etherscan.io/token/0xa150376112dd24E873086b51347EddD5F2e147D5">0xa150376112dd24E873086b51347EddD5F2e147D5</a></code>
@@ -162,7 +162,7 @@ Grix provides battle-tested toolkits that empower users and AI agents with compr
   </tr>
   <tr>
     <td align="center">
-      <img src="https://arbitrum.foundation/favicon.ico" width="16" height="16" alt="ARB"> Arbitrum
+      <img src="https://img.shields.io/badge/Arbitrum-12AAFF?style=flat-square&logo=arbitrum&logoColor=white" width="90" alt="Arbitrum">
     </td>
     <td align="center">
       <code><a href="https://arbiscan.io/token/0x812F2D5Ff6088ed7A655567dBcDf0d42cf07ca38">0x812F2D5Ff6088ed7A655567dBcDf0d42cf07ca38</a></code>
@@ -173,7 +173,7 @@ Grix provides battle-tested toolkits that empower users and AI agents with compr
   </tr>
   <tr>
     <td align="center">
-      <img src="https://solana.com/favicon-32x32.png" width="16" height="16" alt="SOL"> Solana
+      <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" width="90" alt="Solana">
     </td>
     <td align="center">
       <code><a href="https://solscan.io/token/E8iWdPoeVDHJn1EHifeCAFWvKZyTN9WXrmccFEx1Hxa">E8iWdPoeVDHJn1EHifeCAFWvKZyTN9WXrmccFEx1Hxa</a></code>
