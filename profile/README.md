@@ -301,6 +301,10 @@ Grix provides battle-tested toolkits that empower users and AI agents with compr
 <a href="https://linktr.ee/grixfinance">
   <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/grixprotocol">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 <br/>
 <br/>
