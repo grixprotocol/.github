@@ -110,7 +110,7 @@ Grix provides battle-tested toolkits that empower users and AI agents with compr
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/grixprotocol/grix_mcp">
+      <a href="https://github.com/grixprotocol/grix-mcp">
         <b>Grix Plugin for MCP</b>
       </a>
     </td>
